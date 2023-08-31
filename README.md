@@ -5,6 +5,9 @@
 # OpenSearch_Integration_And_Testing
 
 ### 목표
+- [ ] OpenSearch_Integration_And_Testing 정의
+  - [ ] 문서에 대한 정의
+  - [ ] 문서에 대한 목표
 
 ### 제작자
 [@SAgiKPJH](https://github.com/SAgiKPJH)
